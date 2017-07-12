@@ -1,0 +1,9 @@
+C:\Users\Arcane\OneDrive\Projects\TeenyTinyDB\TeenyTinyDB\bin\Debug\TeenyTinyDB.dacpac
+C:\Users\Arcane\OneDrive\Projects\TeenyTinyDB\TeenyTinyDB\bin\Debug\TeenyTinyDB.dll
+C:\Users\Arcane\OneDrive\Projects\TeenyTinyDB\TeenyTinyDB\bin\Debug\TeenyTinyDB.pdb
+C:\Users\Arcane\OneDrive\Projects\TeenyTinyDB\TeenyTinyDB\obj\Debug\Model.xml
+C:\Users\Arcane\OneDrive\Projects\TeenyTinyDB\TeenyTinyDB\obj\Debug\refactor.xml
+C:\Users\Arcane\OneDrive\Projects\TeenyTinyDB\TeenyTinyDB\obj\Debug\postdeploy.sql
+C:\Users\Arcane\OneDrive\Projects\TeenyTinyDB\TeenyTinyDB\obj\Debug\predeploy.sql
+C:\Users\Arcane\OneDrive\Projects\TeenyTinyDB\TeenyTinyDB\obj\Debug\TeenyTinyDB.dll
+C:\Users\Arcane\OneDrive\Projects\TeenyTinyDB\TeenyTinyDB\obj\Debug\TeenyTinyDB.pdb
